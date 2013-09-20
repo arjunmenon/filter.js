@@ -1,3 +1,7 @@
+http://blog.joshsoftware.com/2011/09/28/filter-js-client-side-search-filtering-using-json-and-jquery/
+
+
+
 Filter.js
 =============
 
